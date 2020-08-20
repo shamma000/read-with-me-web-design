@@ -1,0 +1,98 @@
+body{
+background-image: linear-gradient(to right, #fbf4f0 , #fff8f2);
+}
+.nav-item a{
+	padding: 5px;
+	margin-left: 20px;
+}
+.signin-button{
+	border: solid;
+	border-radius: 20px;
+	width: 100px;
+}
+h1{
+	font-size: 60px;
+	font-weight: bold;
+}
+.tagline{
+	font-size: 50px;
+}
+.btn-one{
+	border-radius: 20px;
+	background-color: #c9c2d4;
+}
+.btn-two{
+	color: #d8d2cd;
+	background-color: transparent;
+}
+.btn-three{
+	color: #fff;
+	background-color: #000;
+	border-radius: 30px;
+}
+@media screen and (min-width: 0px) {
+.section-two{
+	margin-left: 0px;
+	margin-right: 0px;
+
+}
+@media (min-width:951px){
+.section-two{
+	margin-left: 190px;
+	margin-right: 190px;
+
+}
+}
+
+.features i{
+	font-size: 30px;
+	padding: 20px;
+	border-radius: 100%;
+	
+}
+.background-one{
+	background-color: #c9d0da;
+}
+.background-two{
+	background-color: #d3e2c4;
+}
+.background-three{
+	background-color: #e2d4c4;
+}
+.background-four{
+	background-image: linear-gradient(to right, #d1cece , #edeaea);
+	border-radius: 20px;
+}
+footer{
+	background-color: #000;
+	
+}
+.footer-icon{
+	padding: 15px;
+	margin-left: 15px;
+	background-color: #fff;
+	border-radius: 100%;
+	color: #343a40;
+}
+.nav-footer li{
+	float: left;
+	margin-right: 20px;
+	list-style: none;
+}
+.nav-footer li a{
+		color: #fff;
+		text-decoration: none;
+}
+.nav-footer  {
+ 	display: inline-block;
+}
+.nav-footer-icon li{
+		float: left;
+		list-style: none;
+}
+.nav-footer-icon{
+	display: inline-block;
+}
+.footer-navbar-brand{
+	color:#fff;
+}
